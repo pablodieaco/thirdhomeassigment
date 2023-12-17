@@ -1,2 +1,2 @@
 # thirdhomeassigment
-Temporary repository for upload final solution of the ThirdHomeAssigment
+This is a temporary repository created exclusively to upload the results of the ThirdHomeAssigment of the Machine Learning course for the University of Lisbon. It has been created one day before the delivery and only contains the notebook on which the work has been done and the excel with the solutions. The work done is not included in the git commits history because we have not worked on this repository, but it is only a repository for uploading the final solution.
